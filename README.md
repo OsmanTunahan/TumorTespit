@@ -24,7 +24,13 @@ Projenin sahibi ve geliştiricisi:
 - Instagram: [@osmanvac](https://instagram.com/osmanvac)
 
 ## Görseller
-- Yakında eklenecek.
+<img src='https://raw.githubusercontent.com/OsmanTunahan/TumorTespit/main/demo/no_tumor.png' height='700' width='512'>
+<br>
+<img src='https://raw.githubusercontent.com/OsmanTunahan/TumorTespit/main/demo/tumor.png' height='700' width='512'>
+
+# Eğitim
+- Bir model eğitmek için: `train.py` dosyasını kullanabilirsiniz. `assets` klasörünün içerisinde bulunan örnek beyin tümörlerinden yola çıkarak kendisini eğitecektir.
+<img src='https://raw.githubusercontent.com/OsmanTunahan/TumorTespit/main/demo/train.png'>
 
 ## Kaynaklar
 
